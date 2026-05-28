@@ -1,4 +1,4 @@
-# 📊 Data Visualization & Preprocessing Lab
+# Data Visualization & Preprocessing Lab
 
 ## Project Overview
 This project is a data analysis lab that demonstrates how to perform data visualization, preprocessing, and statistical analysis using Python. The dataset used is the **Superstore Sales Dataset**, which contains information about customer orders, sales, categories, and regions.
